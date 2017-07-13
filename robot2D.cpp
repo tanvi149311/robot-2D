@@ -1,6 +1,5 @@
 //
 //  main.cpp
-//  Project2
 //
 //  Created by Tanvi Pawale on 10/4/16.
 //  Copyright © 2016 Tanvi Pawale. All rights reserved.
